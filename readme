@@ -1,0 +1,12 @@
+Dans le cadre de la numérisation des procédures administratives couvrant la 
+gestion des élections au Sénégal, une des étapes fastidieuses porte sur la gestion des 
+parrainages. 
+Actuellement faites par le remplissage de feuilles portant les informations de la 
+carte d’identité du citoyen ainsi que sa signature, on souhaite digitaliser le process. 
+Les phases suivantes devront être couvertes par l’application:
+1- Chargement de la liste des électeurs
+2-Saisie de la liste des candidats
+3-Ouverture de la période de parrainage
+4-Enregistrement du profil du parrain 
+5-Enregistrement d’un parrainage
+6-Suivi des parrainages
